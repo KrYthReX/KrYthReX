@@ -1,4 +1,5 @@
-### Hi there 👋
+### Huh, a readme. (hello!)
+I'm an outdoors-y person with a love for games and computers! 
 
 <!--
 **KrYthReX/KrYthReX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
