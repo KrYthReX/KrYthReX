@@ -1,5 +1,6 @@
 ### Huh, a readme. (hello!)
 I'm an outdoors-y person with a love for games and computers! 
+If you'd like to reach out, you can contact me at andrewkota@gmail.com
 
 <!--
 **KrYthReX/KrYthReX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
