@@ -1,4 +1,4 @@
-### Huh, a readme. (hello!)
+### Huh, a readme. (hello! I'm Andrew)
 I'm an outdoors-y person with a love for games, the outdoors, cars, and computers! 
 If you'd like to reach out, you can contact me at downina3@wwu.edu
 
